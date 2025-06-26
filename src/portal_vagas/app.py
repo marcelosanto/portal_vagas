@@ -271,6 +271,9 @@ repos = [
     "react-brasil/vagas",
     "backend-br/vagas",
     "frontendbr/vagas",
+    "datascience-br/vagas",
+    "soujava/vagas-java",
+    "qa-brasil/vagas",
     # Add more repositories as needed
 ]
 
