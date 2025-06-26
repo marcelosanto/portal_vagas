@@ -3,8 +3,8 @@
 
 **Portal Vagas** é uma aplicação web moderna construída com **Streamlit** que agrega vagas de tecnologia de repositórios GitHub, como `react-brasil/vagas`, `backend-br/vagas`, e outros. Com uma interface amigável, filtros avançados e visualização detalhada, o Portal Vagas facilita a busca por oportunidades em tecnologia no Brasil. Explore vagas recentes, filtre por palavras-chave ou repositórios, e acesse detalhes diretamente do GitHub!
 
-![Portal Vagas Screenshot](https://via.placeholder.com/800x400.png?text=Portal+Vagas+Screenshot)  
-_Imagem de exemplo da interface do Portal Vagas_
+![Portal Vagas Link](https://via.placeholder.com/800x400.png?text=Portal+Vagas+Screenshot)  
+- [Acessar o Link](https://app-vagas-do-git.streamlit.app/)
 
 ----------
 
